@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,ts,js,nodejs,nextjs,react,html,css,tailwind,wordpress,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,ts,js,nodejs,react,html,css,tailwind,wordpress,vercel" />
 </p>
 
 ## Latest Published Projects

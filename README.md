@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=5FEFF88&duration=5000&lines=+Hello!+Thanks+for+stopping+by.+👋;+I'm+David+Malinek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=800&height=70&color=5FEFF88&duration=5000&lines=+Hello!+Thanks+for+stopping+by.+👋;+I'm+David+Malínek!;" />
 </h1>
 
 ### Information Systems student creating websites, web-apps, and apps that support innovation and financial wellness for students.
@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,ts,js,nodejs,react,html,css,tailwind,wordpress,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,ts,js,nodejs,react,html,css,tailwind,sqlite,supabase,wordpress,vercel" />
 </p>
 
 ## Latest Published Projects

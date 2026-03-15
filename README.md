@@ -27,6 +27,6 @@
 ## Latest Published Projects
 
 - [MoveMentor](https://move-mentor.app) - Platform offering custom help to students doing their Erasmus+ Application.
-- [Monky](https://monky.pt) — A landing page for a financial wellness app helping students manage money and mental health.
-- [NOVAe](https://unlnovae.org) — A website supporting university entrepreneurship and innovation.
+- [Monky](https://monky.pt) - A landing page for a financial wellness app helping students manage money and mental health.
+- [NOVAe](https://unlnovae.org) - A website supporting university entrepreneurship and innovation.
 

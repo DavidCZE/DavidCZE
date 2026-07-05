@@ -11,6 +11,8 @@
 
 ## About Me
 
+- Head of R&D and Vice President at **NOVAe**, the only entrepreneurship organization at NOVA IMS.
+- Project Lead | Head of Technology & Operations of **FORGe Hackathon 2026** - Portugal's Biggest Hackathon.
 - Currently developing **Monky**, a fintech app that helps students manage their money by linking emotions and budgeting for smarter financial wellness.
 - Working on **MoveMentor**, a web platform designed to support students through the Erasmus application process with resources and guidance.
 - Studying **Information Systems** with a focus on **data science**, **algorithms**, and **web development** to enhance my technical expertise.
@@ -29,4 +31,5 @@
 - [MoveMentor](https://move-mentor.app) - Platform offering custom help to students doing their Erasmus+ Application.
 - [Monky](https://monky.pt) - A landing page for a financial wellness app helping students manage money and mental health.
 - [NOVAe](https://unlnovae.org) - A website supporting university entrepreneurship and innovation.
+- [FORGe](https://forgehackathon.com) - Website of Portugal's Biggest Hackathon.
 

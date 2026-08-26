@@ -32,4 +32,5 @@
 - [Monky](https://monky.pt) - A landing page for a financial wellness app helping students manage money and mental health.
 - [NOVAe](https://unlnovae.org) - A website supporting university entrepreneurship and innovation.
 - [FORGe](https://forgehackathon.com) - Website of Portugal's Biggest Hackathon.
+(All of the above projects have been done with an amazing team and the members can be found on the respective websites)
 

@@ -4,10 +4,6 @@
 
 ### Information Systems student creating websites, web-apps, and apps that support innovation and financial wellness for students.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidCZE&label=Profile%20views&color=ce9927&style=flat" alt="Visitor count badge" />
-</p>
-
 
 ## About Me
 
